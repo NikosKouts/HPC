@@ -1,0 +1,30 @@
+Array length: [32]x[32], Filter length: 3, Filter radius: 1
+Accuracy: 0.000488
+Array length: [32]x[32], Filter length: 5, Filter Radius: 2
+Accuracy: 0.007812
+Array length: [32]x[32], Filter length: 7, Filter Radius: 3
+Accuracy: 0.015625
+Array length: [32]x[32], Filter length: 9, Filter Radius: 4
+Accuracy: 0.031250
+Array length: [32]x[32], Filter length: 11, Filter Radius: 5
+Accuracy: 0.031250
+Array length: [32]x[32], Filter length: 13, Filter Radius: 6
+Accuracy: 0.062500
+Array length: [32]x[32], Filter length: 15, Filter Radius: 7
+Accuracy: 0.062500
+Array length: [32]x[32], Filter length: 17, Filter Radius: 8
+Accuracy: 0.062500
+Array length: [32]x[32], Filter length: 19, Filter Radius: 9
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 21, Filter Radius: 10
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 23, Filter Radius: 11
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 25, Filter Radius: 12
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 27, Filter Radius: 13
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 29, Filter Radius: 14
+Accuracy: 0.125000
+Array length: [32]x[32], Filter length: 31, Filter Radius: 15
+Accuracy: 0.250000
